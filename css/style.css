@@ -65,7 +65,7 @@ body {
     justify-content: space-between;
 }
 .img-body {
-    background: url(/img/doctor-101-sotrudnichestvo.jpg) 100% 100%/cover no-repeat; 
+    background: url(img/doctor-101-sotrudnichestvo.jpg) 100% 100%/cover no-repeat; 
 
     width: 30%;
     height: 90%;
